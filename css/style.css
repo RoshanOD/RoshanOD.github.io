@@ -174,7 +174,7 @@ h2.heading-title{
 ================================================*/
 
 #section-banner{
-	background: url("../images/stockimage.jpg") ;
+	background: url("../images/banner3.jpg") ;
 	background-size: cover;
 }
 .banner-content{
@@ -321,7 +321,7 @@ h2.title span{
 
 .profile-bg {
     background-color: transparent;
-    background: url("../images/profile.jpg");
+    background: url("../images/portfolio/portfolio_pic10.jpg");
     position: absolute;
     background-clip: border-box;
     background-attachment: scroll;
@@ -406,14 +406,14 @@ h2.title span{
 ==========================================*/
 
 #section-resume{
-	background: #f2f2f1;
+	background: #070A11;
 	position: relative;
 }
 #section-resume:after{
 	position: absolute;
 	content:"";
-	width: 60px;
-	height: 60px;
+	width: 0px;
+	height: 0px;
 	background: #f2f2f1;
 	bottom: -25px;
 	left: 48%;
@@ -428,7 +428,7 @@ h2.title span{
 	margin-top: -12px;
 }
 .resume-box{
-	margin-bottom: 80px;
+	margin-bottom: 20px;
 }
 .resume-title{
 
